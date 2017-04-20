@@ -50,23 +50,21 @@ Camden School for Girls Mixed Sixth Form
 
 ## Experience
 
-- Brew Box Bubble Tea (September 2012 -  October 2016) Business Owner
+Brew Box Bubble Tea (September 2012 -  October 2016) Business Owner
 
-Set up a business based in Angel, Islington with a business partner from scratch. Basically doing everything. Was in business for three years and managed to employee 5 people.
+- Set up a business based in Angel, Islington with a business partner from scratch. Basically doing everything. Was in business for three years and managed to employee 5 people.
 
-- Food and beverage assistant (In-room dining)
+Food and beverage assistant (In-room dining)
 
-Served both regular guests and VIPs who stayed at The Dorchester in Park Lane.
+- Served both regular guests and VIPs who stayed at The Dorchester in Park Lane.
 
-- Professional Dancer (September 2008 - May 2012)
+Professional Dancer (September 2008 - May 2012) Self Employed  
 
-Self Employed  
+- Doing everything to promote myself and my crew as dancers. This included winning a TV competition, teaching and performing worldwide.
 
-Doing everything to promote myself and my crew as dancers. This included winning a TV competition, teaching and performing worldwide.
+Schuh (September 2008 - December 2009 & September 2015 - January 2017) Stockroom assistant/ Sales assistant
 
-- Schuh (September 2008 - December 2009 & September 2015 - January 2017) Stockroom assistant/ Sales assistant
-
-Experienced christmas periods in retail, which is something quite remarkable especially in Oxford Circus.
+- Experienced christmas periods in retail, which is something quite remarkable especially in Oxford Circus.
 
 ## Interests
 
