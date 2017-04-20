@@ -8,6 +8,8 @@ The next step my journey is to become a full stack junior developer where I can 
 
 ## Skills
 
+/TODO - More bullet-point style
+
 ### Self-motivated
 
 Before applying for Makers I wanted to firstly follow my passion in dancing and setting up a business. There is not a particular set guidelines to do both, yet with relentless tenacity I was able to learn and adapt new skills to keep them both a career, without the safe hands of someone above me. New skills meaning things like learning marketing skills in order to promote myself as a dancer or learning the basics of accounting so we are able to file correct reports for the business. I started everything from scratch which meant I had to do everything for myself.  I knew that working in a five star hotel would benefit me in the creation of my business so I worked there for a period of time. Now I know that I want to become a developer and I fully believe that Makers Academy would help me achieve that.
