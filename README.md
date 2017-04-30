@@ -2,7 +2,7 @@
 
 ** Junior full stack developer looking to join a great team **
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 Throughout my career I’ve always followed my desires and passion regardless how big or difficult the journey. Former professional dancer and business owner, I’ve decided to learn code at Makers Academy.
 
@@ -24,25 +24,25 @@ As a business owner I was required to not only manage and keep motivated a team 
 
 ### Learning
 
-I am confident in my ability to quickly learn any new technology. During my time at Makers, we first began 
+I am confident in my ability to quickly learn any new technology. During my time at Makers, I learnt
 
 ## Projects
 
 ## Experience
 
-Brew Box Bubble Tea (September 2012 -  October 2016) Business Owner
+###### Brew Box Bubble Tea (September 2012 -  October 2016) Business Owner
 
 - Set up a business based in Angel, Islington with a business partner from scratch. Basically doing everything. Was in business for three years and managed to employee 5 people.
 
-Food and beverage assistant (In-room dining)
+###### The Dorchester Hotel (March 2012 - September 2012) Food and beverage assistant (In-room dining)
 
 - Served both regular guests and VIPs who stayed at The Dorchester in Park Lane.
 
-Professional Dancer (September 2008 - May 2012) Self Employed  
+###### Professional Dancer (September 2008 - May 2012) Self Employed  
 
 - Doing everything to promote myself and my crew as dancers. This included winning a TV competition, teaching and performing worldwide.
 
-Schuh (September 2008 - December 2009 & September 2015 - January 2017) Stockroom assistant/ Sales assistant
+###### Schuh (September 2008 - December 2009 & September 2015 - January 2017) Stockroom assistant/ Sales assistant
 
 - Experienced christmas periods in retail, which is something quite remarkable especially in Oxford Circus.
 
