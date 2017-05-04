@@ -28,18 +28,18 @@ I am confident in my ability to quickly learn any new technology. Before Makers 
 
 #### Quizbot
 Description - A responsive maths quiz app for the Amazon Echo. Collaborated with a company where we send quiz results to their Api
-Technologies used - JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
-Github Repo - https://github.com/Noora-q/quizbot-alexa
+<br>Technologies used - JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
+<br>Github Repo - https://github.com/Noora-q/quizbot-alexa
 
 #### Rudimental
 Description -  A web app that generates rude words.
-Technologies used - Rails, Postgres, Capybara, Rspec
-Github Repo - https://github.com/marudine/rudimental
+<br>Technologies used - Rails, Postgres, Capybara, Rspec
+<br>Github Repo - https://github.com/marudine/rudimental
 
 #### Makers Bnb
 Description - An Airbnb clone driven by a TDD approach.
-Technologies used - Ruby, Postgres, Heroku, Sinatra, Capybara
-Github Repo - https://github.com/marudine/makersBnB
+<br>Technologies used - Ruby, Postgres, Heroku, Sinatra, Capybara
+<br>Github Repo - https://github.com/marudine/makersBnB
 
 ## Experience
 
