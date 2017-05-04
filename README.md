@@ -4,15 +4,15 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Throughout my career I’ve always followed my desires and passion regardless how big or difficult the journey. Former professional dancer and business owner, I’ve decided to learn code at Makers Academy.
+Former professional dancer and business owner, turned software developer at a 12 week bootcamp by Makers Academy.
 
 The next step my journey is to become a full stack junior developer where I can be a part of a cohesive unit, and be creative in developing technical solutions to solve problems. I promote the use of Test Driven Development, with agile programming combined with extreme programming values.
 
 ## Skills
 
-### Self-motivated
+### Self-motivated and self-reliant
 
-Before applying for Makers I wanted to firstly follow my passion in dancing and setting up a business. There is not a particular set guidelines to do both, yet with relentless tenacity I was able to learn and adapt new skills to keep them both a career, without the safe hands of someone above me. I started everything from scratch which meant I had to do everything for myself and solve problems that appeared.
+Before applying for Makers I wanted to firstly follow my passion in dancing and setting up a business. There is not a particular set guidelines to do both, yet with relentless tenacity I was able to learn and adapt new skills to keep them both a career, without the safe hands of someone above me. I started everything from scratch which meant I had to do everything for myself and solve problems that appeared. You put me in a situation where I am doing something, I will find something productive to do.
 
 ### Creative individual
 
@@ -24,9 +24,24 @@ As a business owner I was required to not only manage and keep motivated a team 
 
 ### Learning
 
-I am confident in my ability to quickly learn any new technology. During my time at Makers, I learnt
+I am confident in my ability to quickly learn any new technology. Before Makers Academy I had no coding experience yet I was able to produce the following below.
 
 ## Projects
+
+#### Quizbot
+Description - A responsive maths quiz app for the Amazon Echo. Collaborated with a company where we send quiz results to their Api
+Technologies used - JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
+Github Repo - https://github.com/Noora-q/quizbot-alexa
+
+#### Rudimental
+Description -  A web app that generates rude words.
+Technologies used - Rails, Postgres, Capybara, Rspec
+Github Repo - https://github.com/marudine/rudimental
+
+#### Makers Bnb
+Description - An Airbnb clone driven by a TDD approach.
+Technologies used - Ruby, Postgres, Heroku, Sinatra, Capybara
+Github Repo - https://github.com/marudine/makersBnB
 
 ## Experience
 
@@ -36,7 +51,7 @@ I am confident in my ability to quickly learn any new technology. During my time
 
 ###### The Dorchester Hotel (March 2012 - September 2012) Food and beverage assistant (In-room dining)
 
-- Served both regular guests and VIPs who stayed at The Dorchester in Park Lane.
+- Served both regular guests and VIPs providing a five star service to hotel guests.
 
 ###### Professional Dancer (September 2008 - May 2012) Self Employed  
 
@@ -51,12 +66,10 @@ I am confident in my ability to quickly learn any new technology. During my time
 Makers Academy (February 2017 to May 2017)
 
 A 12-week intensive onsite development boot camp emphasising on:
-* Curiosity and hungry passion for code
-* Independent learner and problem-solver
-* OOP, TDD, SOLID, MVC, DDD
-* Software Craftsmanship
-* Ruby, Rails, Javascript, Node.js, Angular.js
-* Rspec, Jasmine, Mocha
+* Full stack web Development
+* Pair programming
+* Test Driven Development
+* Agile methodologies and XP Values
 
 Camden School for Girls Mixed Sixth Form
 
@@ -66,3 +79,6 @@ Camden School for Girls Mixed Sixth Form
 ## Interests
 
 I still dance and enjoy keeping active, obsessively taking part in long distance runs and bike rides. Also a part of a basketball team participating in a Saturday league. Whilst my non active interests include reading, playing computer games and creatively using my video camera.
+
+Here is my blog on medium -
+Here is my food blog on youtube -
