@@ -1,7 +1,5 @@
 ## Albert Yanit ##
 
-** Junior full stack developer looking to join a great team **
-
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 Former professional dancer and business owner, turned software developer at a 12 week bootcamp by Makers Academy.
