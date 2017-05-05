@@ -33,12 +33,12 @@ Description - A responsive maths quiz app for the Amazon Echo. Collaborated with
 
 #### Rudimental
 Description -  A web app that generates rude words.
-<br>Technologies used - Rails, Postgres, Capybara, Rspec
+<br>Technologies used - Rails, Postgres, Capybara, Rspec, Bootstrap, Sketch
 <br>Github Repo - https://github.com/marudine/rudimental
 
 #### Makers Bnb
 Description - An Airbnb clone driven by a TDD approach.
-<br>Technologies used - Ruby, Postgres, Heroku, Sinatra, Capybara
+<br>Technologies used - Ruby, Postgres, Heroku, Sinatra, Capybara, Bootstrap, Sketch
 <br>Github Repo - https://github.com/marudine/makersBnB
 
 ## Experience
