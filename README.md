@@ -78,5 +78,5 @@ Camden School for Girls Mixed Sixth Form
 
 I still dance and enjoy keeping active, obsessively taking part in long distance runs and bike rides. Also a part of a basketball team participating in a Saturday league. Whilst my non active interests include reading, playing computer games and creatively using my video camera.
 
-Here is my blog on medium - https://medium.com/@albertyanit
+Here is my blog on medium, winner of blog of the cohort for Makers Academy - https://medium.com/@albertyanit
 <br>Here is my food blog on youtube - https://www.youtube.com/channel/UCAWWpFJ1wt1Tfde_-k9oSoA
